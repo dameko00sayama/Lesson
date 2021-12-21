@@ -5,6 +5,5 @@ function vending_machine($price,$juice_name){
     }else{
         return $juice_name."の購入金が足りません<br>";
     }
-    
 }
 ?>
